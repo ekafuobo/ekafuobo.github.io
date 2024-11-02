@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ekafuobo.github.io/MDt/sitemap_index.txt
+Sitemap: https://ekafuobo.github.io/dZC/sitemap_index.txt
+Sitemap: https://ekafuobo.github.io/gHZ/sitemap_index.txt
+Sitemap: https://ekafuobo.github.io/jHG/sitemap_index.txt
